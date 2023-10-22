@@ -3,6 +3,6 @@
   import { App } from "konsta/svelte";
 </script>
 
-<App theme="material" class="w-full max-w-4xl mx-auto dark" safeAreas>
+<App theme="material" class="w-full mx-auto " safeAreas>
   <slot />
 </App>
