@@ -19,10 +19,10 @@
 <section
   class="w-full overflow-x-hidden h-screen grid place-items-center max-w-xl !mx-auto"
 >
-  <Page >
-    <Navbar title="Action Sheet" />
-    <Block strong inset class="space-y-4">
-      <p>
+  <Page>
+    <Navbar title="Day tone"  />
+    <Block  inset class="space-y-4">
+      <p class=" text-md-dark-primary font-bold">
         Action Sheet is a slide-up pane for presenting the user with a set of
         alternatives for how to proceed with a given task.
       </p>
